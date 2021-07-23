@@ -1,0 +1,72 @@
+header {
+    padding: 0px 500px;
+    width: 80%;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+.navbar {
+    margin-top: 0;
+    width: 100%;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 20px 20px;
+    font-family: cursive;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+.recruit {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: left;
+}
+
+h2 {
+    color: black;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: left;
+}
+
+.benefits {
+    color: black;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: left;
+}
+
+.contacts a {
+    color: black;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: left;
+}
+
+a.black {
+    color: black;
+}
